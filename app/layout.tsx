@@ -9,6 +9,21 @@ export const metadata: Metadata = {
     title: 'Image to Text Converter — Free Online OCR Tool',
     description: 'Extract text from images instantly. Free, private, no registration.',
     type: 'website',
+    url: 'https://imagetotext.top',
+    images: [
+      {
+        url: 'https://imagetotext.top/og-image.svg',
+        width: 1200,
+        height: 630,
+        alt: 'Image to Text Converter — Free Online OCR Tool',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Image to Text Converter — Free Online OCR Tool',
+    description: 'Extract text from images instantly. Free, private, no registration.',
+    images: ['https://imagetotext.top/og-image.svg'],
   },
 }
 
